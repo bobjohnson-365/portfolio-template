@@ -1,4 +1,4 @@
-function Hello_World() {
+function HelloWorld() {
 
   return (
     <div>
@@ -7,4 +7,4 @@ function Hello_World() {
   )
 }
 
-export default Hello_World
+export default HelloWorld

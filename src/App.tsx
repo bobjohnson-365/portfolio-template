@@ -1,12 +1,12 @@
 import './App.css'
-import './components/Hello_World'
-import Hello_World from './components/Hello_World'
+import './components/HelloWorld'
+import HelloWorld from './components/HelloWorld'
 
 function App() {
   return (
     <>
       <section id="center">
-        <Hello_World></Hello_World>
+        <HelloWorld></HelloWorld>
       </section>
     </>
   )
